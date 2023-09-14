@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "homepage": "https://wellrcosta.github.io/HomePage",
   "scripts": {
     "dev": "next",
