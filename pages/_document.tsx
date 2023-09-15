@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Next.js Blog',
+    title: 'Reis - Personal page and blog',
     description: 'Wellington Reis personal page and blog.',
   }
 
