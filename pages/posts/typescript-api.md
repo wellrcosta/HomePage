@@ -3,7 +3,7 @@ title: Creating a TypeScript Node.js API
 date: 2021/3/19
 description: Learn how to create a TypeScript-based Node.js API for building robust and maintainable web services.
 tag: nodejs, typescript, express
-author: You
+author: Reis
 ---
 
 In this guide, we'll walk through the process of creating a TypeScript-based Node.js API. TypeScript brings static typing and enhanced tooling to Node.js development, making it a popular choice for building robust and maintainable APIs.
