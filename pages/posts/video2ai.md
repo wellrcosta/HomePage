@@ -2,7 +2,7 @@
 title: Video2AI
 date: 2023/3/15
 description: Video Processing with Artificial Intelligence.
-tag: nodejs, reactjs, typescript, fastify, openai, personalprojects
+tag: nodejs, reactjs, typescript, fastify, openai
 author: Reis
 ---
 

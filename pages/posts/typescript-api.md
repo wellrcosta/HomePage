@@ -1,6 +1,6 @@
 ---
 title: Creating a TypeScript Node.js API
-date: 2021/3/19
+date: 2023/3/19
 description: Learn how to create a TypeScript-based Node.js API for building robust and maintainable web services.
 tag: nodejs, typescript, express
 author: Reis
